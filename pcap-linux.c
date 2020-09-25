@@ -1,5 +1,5 @@
 /*
- *  pcap-linux.c: Packet capture interface to the Linux kernel
+ *  ppcap-linux.c: Packet capture interface to the Linux kernel
  *
  *  Copyright (c) 2000 Torsten Landschoff <torsten@debian.org>
  *  		       Sebastian Krahmer  <krahmer@cs.uni-potsdam.de>
